@@ -5,7 +5,7 @@
 }
 
 .mainPage {
-    background-image: url("assets/images/backroundtil.jpg");
+    background-image: url("/assets/images/backroundtil.jpg");
 }
 
 footer {
@@ -95,7 +95,7 @@ input:checked+.slider:before {
 }
 
 @font-face {
-    src: url("assets/fonts/LaPirata.ttf");
+    src: url("/assets/fonts/LaPirata.ttf");
     font-family: bennyfont;
 }
 
@@ -116,7 +116,7 @@ input:checked+.slider:before {
 .col-sm-12 {
     border: 2px solid lightslategrey;
     border-radius: 15px;
-    background-image: url("assets/images/20171025_104733.jpg");
+    background-image: url("/assets/images/20171025_104733.jpg");
 }
 
 .col-sm-12 > li {
