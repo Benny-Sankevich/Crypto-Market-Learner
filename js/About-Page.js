@@ -16,21 +16,13 @@ $('#aboutButton').on("click", function () {
                     <li>Ajax.</li>
                     <li>External API's.</li>
                              
-                <img src="/assets/images/benny.PNG" alt="Card image cap" style="width:200px;height:170px;">
+                <img src="assets/images/benny.PNG" alt="Card image cap" style="width:200px;height:170px;">
                   <h3>Benny Sankevich <br>
                   Phone Number: 0508889169.<br>
                   Email Address: <a href="mailto:Bennysankevich@gmail.com">Bennysankevich@gmail.com</a></h3>
                   <a href="https://www.linkedin.com/in/benny-sankevich-5434481a6">
-                  <img src="/assets/images/linkedin.PNG" alt="linkedin"  style="width:30px;height:30px">
+                  <img src="assets/images/linkedin.PNG" alt="linkedin"  style="width:30px;height:30px">
                   </a>
                 </div>
                 `);
 });
-
-//Hello Guys
-// My name is Roy Elmakies,
-
-//  Welcome! to my Crypto Market Learner
-// Here you can learn all about the market price on every Crypto Coin out there!
-// I used Coingecko Api the world's most comprehensive crypto currency,
-// to give you the most useful info and current price that available!
