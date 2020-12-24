@@ -16,12 +16,12 @@ $('#aboutButton').on("click", function () {
                     <li>Ajax.</li>
                     <li>External API's.</li>
                              
-                <img src="assets/images/benny.PNG" alt="Card image cap" style="width:200px;height:170px;">
+                <img src="assets/images/benny.png" alt="Card image cap" style="width:200px;height:170px;">
                   <h3>Benny Sankevich <br>
                   Phone Number: 0508889169.<br>
                   Email Address: <a href="mailto:Bennysankevich@gmail.com">Bennysankevich@gmail.com</a></h3>
                   <a href="https://www.linkedin.com/in/benny-sankevich-5434481a6">
-                  <img src="assets/images/linkedin.PNG" alt="linkedin"  style="width:30px;height:30px">
+                  <img src="assets/images/linkedin.png" alt="linkedin"  style="width:30px;height:30px">
                   </a>
                 </div>
                 `);
