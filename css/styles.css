@@ -3,7 +3,7 @@
 }
 
 .mainPage {
-    background: url(assets/images/backroundtil.png);
+    background: url("assets/images/backroundtil.png");
 }
 
 footer {
