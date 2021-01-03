@@ -114,7 +114,8 @@ input:checked+.slider:before {
 .col-sm-12 {
     border: 2px solid lightslategrey;
     border-radius: 15px;
-    background: url("../assets/images/20171025_104733.png");
+/*     background: url("../assets/images/20171025_104733.png"); */
+    background: url("../assets/images/background.jpg");
 }
 
 .col-sm-12 > li {
