@@ -1,10 +1,12 @@
 .shadow {
     background-color: lightblue;
 }
-
-.mainPage {
-    background: url("../assets/images/backroundtil.png");
+body{
+     background: url("../assets/images/backroundtil.png");
 }
+/* .mainPage {
+    background: url("../assets/images/backroundtil.png");
+} */
 
 footer {
     text-align: center;
@@ -114,7 +116,6 @@ input:checked+.slider:before {
 .col-sm-12 {
     border: 2px solid lightslategrey;
     border-radius: 15px;
-/*     background: url("../assets/images/20171025_104733.png"); */
     background: url("../assets/images/background.jpg");
     color: white;
 }
